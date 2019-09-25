@@ -1,0 +1,27 @@
+{
+  "name": "only-every",
+  "version": "1.0.0",
+  "description": "Only allow a function to be called once between intervals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominicporteous/only-every.git"
+  },
+  "keywords": [
+    "only",
+    "every",
+    "function",
+    "call",
+    "timeout",
+    "interval"
+  ],
+  "author": "Dominic Porteous",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dominicporteous/only-every/issues"
+  },
+  "homepage": "https://github.com/dominicporteous/only-every#readme"
+}
